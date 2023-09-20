@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: dotnet6-webapi-template
+  name: dotnet6
   description: Artist Lookup
   tags:
     - java
