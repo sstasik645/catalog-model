@@ -1,7 +1,7 @@
 apiVersion: scaffolder.backstage.io/v1beta3
-kind: Template
+kind: Component
 metadata:
-  name: dotnet6
+  name: dotnet6-webapi-template
   description: Artist Lookup
   tags:
     - java
